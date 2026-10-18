@@ -1,0 +1,30 @@
+Инструкции
+This assignment is Checkpoint 1 of the SIS Project.
+
+
+
+
+All requirements for Checkpoint 1 can be found in the github link (checkpoint 1 specification) attached to this assignment. Please read the specification carefully and make sure your project satisfies all listed requirements.
+
+
+
+You will defend your project during your regular practice session in Week 8.
+
+
+Before the assignment deadline, submit a link to your GitHub repository in Microsoft Teams.
+
+
+Your GitHub repository must:
+
+Be publicly accessible so it can be reviewed without requesting access.
+
+Contain the complete implementation for Checkpoint 1.
+
+Have a clear and understandable structure.
+
+Include a README with enough information to understand what the project does and how to run it.
+
+
+Make sure the submitted repository is the version you are ready to defend.
+
+https://github.com/salikhP/GOLANG-FALL-2026-KBTU/tree/main/sis?classId=814d40b8-76c1-4452-8934-70ed22e9e570&assignmentId=52a08f3f-878a-46ca-848c-c37f984d40c8&submissionId=ace8cac7-43cf-5357-5ced-84e1990dd080
