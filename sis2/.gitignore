@@ -1,0 +1,8 @@
+/bin/
+/.gocache/
+/.gotmp/
+*.exe
+*.test
+coverage.out
+defense_ru.md
+SIS_CP2_SPECIFICATION.md
